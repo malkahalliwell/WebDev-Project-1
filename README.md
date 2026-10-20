@@ -6,3 +6,6 @@ I structured my own page using my own css, and did a guided/informational format
 
 Malka Halliwell Report: 
 I structures my page (Milan) and created an accompanying css file to add color and features to the html. I included a table, a list, images, and a link to an outside source in my Milan page. I also used many css features we have learned so far this semester such as blocks, boarders, margin spacing, text font and size. After we all created our own pages I made a final version of our collaborative work by putting all our individual work into one folder so that we can toggle between each others pages. I think we all worked well together and created a fun project! 
+
+Julianna Collaboration Report:
+I structured the Norway page with some general information, a table with more of a structure, images, and links with more references. I used flexbox as well for a majority of the webpage. I had a CSS style page that incorporated a lot of beige, tan, and brown colors. I also worked on the basic, rough outline for the homepage, which Malka then fixed and stylized for the final product. We each worked on our own travel destination webpage and then combined them together on github. We made it so you can switch between pages accessing each others pages and the homepage from any page you are on. 
